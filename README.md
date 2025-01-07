@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey there 👋</h1>
+<h1 align="left">Hi, folks! 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">A enthusiastic Web Developer with expertise in React, Tailwind CSS, JavaScript, Node.js, and MongoDB. I excel at crafting dynamic, user-centric web applications while overcoming technical challenges with ease. Driven by the ambition to become a skilled Full-Stack Developer, I am focused on mastering cutting-edge technologies like React Native and backend development, all with a passion for creating impactful, scalable software solutions.</p>
+<p align="left">A Front-End  Developer with expertise in React, Tailwind CSS, JavaScript, Node.js, and MongoDB and other modern web technologies. I excel at crafting dynamic, user-centric web applications while overcoming technical challenges with ease. Driven by the ambition to become a skilled Full-Stack Developer, I am focused on mastering cutting-edge technologies like React Native and backend development, all with a passion for creating impactful, scalable software solutions.</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h5 align="center">👨‍💻Portfolio: https://rakibur-rahman-ratul.netlify.app/</h5>
+<h5 align="left">👨‍💻Portfolio: https://rakibur-rahman-ratul.netlify.app/</h5>
 
 ###
 
