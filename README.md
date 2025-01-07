@@ -16,6 +16,10 @@
 
 ###
 
+
+📚 I'm currently learning advanced front-end technologies and improving my skills in React and JavaScript  
+🎯 Goals: Master Full-Stack development, including React Native and back-end development  
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rakibur-rahman-ratul-9a1585280/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
