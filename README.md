@@ -36,6 +36,10 @@
 
 ###
 
+<h5 align="center">👨‍💻Portfolio: https://rakibur-rahman-ratul.netlify.app/</h5>
+
+###
+
 <h3 align="left">🛠Front-End Language and tools</h3>
 
 ###
@@ -88,6 +92,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RAKIBURRAHMAN007/RAKIBURRAHMAN007/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG90eXVvZzA2bHhoYXI2MjBkYnZzN3I3Z2RoNHd3ZzByMHV2bTJzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"  />
+</div>
 
 ###
